@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ltp1405
-- 👀 I’m interested in Python GUI
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in GUI
+- 🌱 I’m currently learning Flutter and Flame
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
