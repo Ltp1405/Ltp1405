@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Ltp1405
-- 👀 I’m interested in GUI
-- 🌱 I’m currently learning Flutter and Flame
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ltp1405
+- 👀 I’m interested in graphics, low-level programmings, espcially OS-related.
 
 <!---
 Ltp1405/Ltp1405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
